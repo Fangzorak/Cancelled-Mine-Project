@@ -1,0 +1,1 @@
+These are Visual Studio files that I created when I worked on this project. It has been cancelled, but I plan to use some of the things that I coded here in my future projects, especially the stance system in the player.
